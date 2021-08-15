@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, welcome to my Github. 👋
+
+- 🔭 I’m currently working on ...
+- :man_student: I'm continuously learning, currently @ Boston College
+- 
+-
+
+
+
 
 <!--
 **kalebetucker/kalebetucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
