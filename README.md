@@ -4,7 +4,6 @@
 - :man_student: I'm continuously learning, currently @ Boston College
 - 💬 Ask me about the current datasets I am working with / building
 - 📫 Reach me @ kalebetucker@gmail.com
--
 
 
 
