@@ -1,8 +1,9 @@
 ### Hi there, welcome to my Github. 👋
 
-- 🔭 I’m currently working on ...
+- :man_office_worker: I work @ Deloitte Consulting within their M&A Analytics Practice
 - :man_student: I'm continuously learning, currently @ Boston College
-- 
+- 💬 Ask me about the current datasets I am working with / building
+- 📫 Reach me @ kalebetucker@gmail.com
 -
 
 
